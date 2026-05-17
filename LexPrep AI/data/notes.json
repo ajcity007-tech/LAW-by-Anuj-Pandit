@@ -1,0 +1,112 @@
+[
+  {
+    "id": "note-001",
+    "topic_id": "topic-001",
+    "title": "Basic Structure Doctrine - Complete Notes",
+    "content": "**Basic Structure Doctrine - Kesavananda Bharati v. State of Kerala (1973)**\n\n**Background:** Parliament's amending power under Article 368 was challenged. Golaknath (1967) had held that FRs cannot be amended. Kesavananda overruled this but introduced the basic structure limitation.\n\n**Judgment (7-6 majority):**\n- Parliament can amend any part of Constitution including FRs\n- BUT cannot destroy the 'basic structure' or 'essential features'\n- Justice H.R. Khanna's opinion was decisive\n\n**Elements of Basic Structure (non-exhaustive):**\n1. Supremacy of the Constitution\n2. Republican and Democratic form of government\n3. Secular character\n4. Federal character\n5. Separation of powers\n6. Judicial review\n7. Rule of law\n8. Dignity of individual\n9. Parliamentary system\n10. Free and fair elections\n11. Welfare state\n\n**Subsequent Applications:**\n- Indira Gandhi v. Raj Narain (1975): Free and fair elections\n- Minerva Mills (1980): Judicial review is basic structure\n- Waman Rao (1981): Applies post-Kesavananda\n- I.R. Coelho (2007): 9th Schedule laws subject to review\n\n**Exam Tip:** Always cite Kesavananda Bharati AIR 1973 SC 1461. Mention that the list is illustrative, not exhaustive.",
+    "subject": "Constitutional Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,UPSC",
+    "semester": 3,
+    "tags": "basic-structure,kesavananda,article-368,amendment",
+    "is_bookmarked": 0
+  },
+  {
+    "id": "note-002",
+    "topic_id": "topic-003",
+    "title": "Article 21 - Expanded Scope",
+    "content": "**Article 21 - Right to Life and Personal Liberty**\n\n**Text:** 'No person shall be deprived of his life or personal liberty except according to procedure established by law.'\n\n**Evolution:**\n- A.K. Gopalan (1950): Narrow - 'procedure established by law' = any prescribed procedure\n- Maneka Gandhi (1978): Revolutionary - procedure must be fair, just, and reasonable\n\n**Rights Read into Article 21:**\n1. Right to livelihood - Olga Tellis v. BMC (1985)\n2. Right to privacy - K.S. Puttaswamy v. UOI (2017)\n3. Right to clean environment - M.C. Mehta cases\n4. Right to health - Paschim Banga Khet Mazdoor Samity (1996)\n5. Right to education - Unnikrishnan v. State of AP (1993) -> Art 21A\n6. Right to speedy trial - Hussainara Khatoon v. State of Bihar (1979)\n7. Right against torture - D.K. Basu v. State of WB (1997)\n8. Right to sleep - Re: Ramlila Maidan (2012)\n9. Right to die with dignity - Common Cause v. UOI (2018)\n10. Right to travel abroad - Maneka Gandhi (1978)\n\n**Golden Triangle:** Articles 14 + 19 + 21 are interconnected. Any law under Art 21 must also satisfy Arts 14 and 19.",
+    "subject": "Constitutional Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,UPSC",
+    "semester": 3,
+    "tags": "article-21,right-to-life,maneka-gandhi,personal-liberty",
+    "is_bookmarked": 0
+  },
+  {
+    "id": "note-003",
+    "topic_id": "topic-006",
+    "title": "Res Judicata - Essential Conditions",
+    "content": "**Res Judicata - Section 11 CPC**\n\n**Maxim:** 'Nemo debet bis vexari pro una et eadem causa' - No one should be vexed twice for the same cause.\n\n**Essential Conditions:**\n1. Matter directly and substantially in issue in former suit\n2. Former suit between same parties or parties under whom they claim\n3. Parties litigated under same title\n4. Court was competent to try the subsequent suit\n5. Matter was heard and finally decided\n\n**Constructive Res Judicata (Explanation IV):**\nMatter which might and ought to have been made ground of attack or defence is deemed to have been constructively in issue.\n\n**Res Judicata vs Res Sub Judice:**\n- Res Judicata (Section 11): Matter already decided - bars trial\n- Res Sub Judice (Section 10): Matter pending - stays trial\n\n**Application to Writ Petitions:** Daryao v. State of UP (1961) - Res judicata applies to writ petitions under Articles 32 and 226.\n\n**Exam Tip:** Distinguish between res judicata (Section 11) and res sub judice (Section 10). Both prevent multiplicity of proceedings but at different stages.",
+    "subject": "Civil Procedure",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 4,
+    "tags": "res-judicata,section-11,cpc,constructive",
+    "is_bookmarked": 0
+  },
+  {
+    "id": "note-004",
+    "topic_id": "topic-012",
+    "title": "Dying Declaration - Complete Guide",
+    "content": "**Dying Declaration - Section 32(1) Bharatiya Sakshya Adhiniyam 2023 / IEA 1872**\n\n**Definition:** Statement made by a person as to the cause of his death or as to any circumstances of the transaction which resulted in his death.\n\n**Why Admissible?** Nemo moriturus praesumitur mentiri - A dying person is not presumed to lie.\n\n**Key Principles:**\n1. No oath required (deceased cannot be cross-examined)\n2. No particular form required - can be oral, written, by signs\n3. Corroboration is not mandatory but desirable\n4. Must be made when death is imminent\n5. Deceased must be in fit mental state\n\n**Tests for Reliability (Paniben v. State of Gujarat, 1992):**\n1. Was the deceased in fit mental state?\n2. Was the statement voluntary and truthful?\n3. Were there multiple dying declarations? If so, are they consistent?\n4. Is there corroborative evidence?\n\n**Multiple Dying Declarations:**\n- If consistent: Strong evidence\n- If inconsistent: Court must scrutinize carefully\n- If one is reliable: Can be basis of conviction\n\n**Laxman v. State of Maharashtra (2002):** No particular form required. Even oral dying declaration recorded by doctor is admissible.\n\n**Exam Tip:** Emphasize that dying declaration is an exception to hearsay rule. Corroboration desirable but not mandatory.",
+    "subject": "Evidence Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 4,
+    "tags": "dying-declaration,section-32,hearsay-exception,evidence",
+    "is_bookmarked": 0
+  },
+  {
+    "id": "note-005",
+    "topic_id": "topic-016",
+    "title": "Common Intention vs Common Object",
+    "content": "**Common Intention (Section 34 IPC/BNS) vs Common Object (Section 149 IPC/BNS)**\n\n| Aspect | Common Intention (Sec 34) | Common Object (Sec 149) |\n|--------|--------------------------|------------------------|\n| Persons | 2 or more | 5 or more (unlawful assembly) |\n| Prior concert | Required - prior meeting of minds | Not required - can develop on spot |\n| Liability | Each person liable as if act done by him alone | Member liable for acts in prosecution of common object |\n| Active participation | Must participate in criminal act | Mere membership sufficient |\n| Offence | Not a substantive offence | Not a substantive offence |\n\n**Common Intention:** Requires prior meeting of minds. Each person must participate in furtherance of common intention. Mahbub Shah v. Emperor (1945).\n\n**Common Object:** Unlawful assembly of 5+ persons with common object: (1) Overawe government, (2) Resist execution of law, (3) Commit mischief/trespass, (4) Take possession by force, (5) Compel by criminal force.\n\n**Exam Tip:** This is a favorite UP PCS-J question. Always tabulate the differences. Cite Barendra Kumar Ghosh (1925) for Section 34.",
+    "subject": "Criminal Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 4,
+    "tags": "common-intention,common-object,section-34,section-149",
+    "is_bookmarked": 0
+  },
+  {
+    "id": "note-006",
+    "topic_id": "topic-021",
+    "title": "Offer and Acceptance - Rules",
+    "content": "**Offer and Acceptance - Indian Contract Act 1872**\n\n**Offer (Section 2(a)):**\n- Must be communicated to offeree\n- Must be definite and certain\n- Must be made with intention to create legal relations\n- Can be specific or general\n\n**Acceptance (Section 2(b)):**\n- Must be absolute and unqualified\n- Must be communicated to offeror\n- Must be in prescribed mode (or reasonable mode)\n- Must be given within reasonable time\n- Silence is not acceptance (Felthouse v. Bindley)\n\n**Communication Rules:**\n- Proposal complete when comes to knowledge of offeree\n- Acceptance complete against proposer: when put in course of transmission (postal rule)\n- Acceptance complete against acceptor: when comes to knowledge of proposer\n\n**Revocation:**\n- Proposal: Anytime before acceptance is complete against proposer\n- Acceptance: Anytime before acceptance letter reaches proposer\n\n**Key Cases:**\n- Carlill v. Carbolic Smoke Ball Co. (1893): General offer\n- Lalman Shukla v. Gauri Dutt (1913): Acceptance with knowledge\n- Adams v. Lindsell (1818): Postal rule\n\n**Exam Tip:** Postal rule applies only to acceptance, not to revocation. Revocation of acceptance must reach before or at same time as acceptance.",
+    "subject": "Contract Law",
+    "exam_tags": "UP PCS-J,Judicial Services,LLB,Bar Exam",
+    "semester": 2,
+    "tags": "offer,acceptance,postal-rule,communication",
+    "is_bookmarked": 0
+  },
+  {
+    "id": "note-007",
+    "topic_id": "topic-027",
+    "title": "Austin vs Savigny - Comparative Notes",
+    "content": "**Austin's Analytical School vs Savigny's Historical School**\n\n**Austin (Analytical/Imperative School):**\n- Law is command of sovereign\n- Sovereign: determinate human superior receiving habitual obedience\n- Sanction is essential element of law\n- Separates law as IS from law as OUGHT TO BE\n- Ignores: customary law, international law, constitutional law\n- Deductive method\n\n**Savigny (Historical School):**\n- Law is found, not made\n- Volksgeist (spirit of the people) is source of law\n- Law grows like language - organic development\n- Custom is the most important source\n- Legislation is merely formal expression of customary law\n- Inductive method\n\n**Maine's Contribution:**\n- Law evolves from STATUS to CONTRACT\n- Stages: (1) Commands of king, (2) Customary law, (3) Administration of justice by courts\n\n**Comparison:**\n| Aspect | Austin | Savigny |\n|--------|--------|--------|\n| Source | Sovereign command | Volksgeist |\n| Method | Deductive | Inductive |\n| Custom | Ignored | Primary source |\n| Nature | Artificial | Organic |\n| Sanction | Essential | Not essential |\n\n**Exam Tip:** Use tabular comparison. Mention both schools' limitations.",
+    "subject": "Jurisprudence",
+    "exam_tags": "UP PCS-J,Judicial Services,LLM,UPSC",
+    "semester": 5,
+    "tags": "austin,savigny,analytical,historical,jurisprudence",
+    "is_bookmarked": 0
+  },
+  {
+    "id": "note-008",
+    "topic_id": "topic-031",
+    "title": "Negligence - Donoghue v. Stevenson",
+    "content": "**Negligence - Donoghue v. Stevenson (1932) AC 562**\n\n**Facts:** Mrs. Donoghue consumed ginger beer bought by her friend. Decomposed snail in bottle. She suffered gastroenteritis. No contract between her and manufacturer.\n\n**Held (3-2 majority):** Manufacturer owes duty of care to ultimate consumer.\n\n**Lord Atkin's Neighbor Principle:**\n'You must take reasonable care to avoid acts or omissions which you can reasonably foresee would be likely to injure your neighbor.'\n\n**Who is a neighbor?** Persons so closely and directly affected by my act that I ought reasonably to have them in contemplation.\n\n**Modern Test (Caparo v. Dickman, 1990):**\n1. Foreseeability of harm\n2. Proximity between parties\n3. Fair, just, and reasonable to impose duty\n\n**Elements of Negligence:**\n1. Duty of care owed\n2. Breach of duty\n3. Damage (causation + remoteness)\n\n**Defences:** Contributory negligence, volenti non fit injuria, act of God, inevitable accident.\n\n**Exam Tip:** Donoghue v. Stevenson is the foundation of modern negligence law. Always cite it. The neighbor principle is the starting point for duty of care analysis.",
+    "subject": "Law of Torts",
+    "exam_tags": "UP PCS-J,Judicial Services,LLB,Bar Exam",
+    "semester": 2,
+    "tags": "negligence,donoghue-stevenson,neighbor-principle,duty-of-care",
+    "is_bookmarked": 0
+  },
+  {
+    "id": "note-009",
+    "topic_id": "topic-037",
+    "title": "Six Types of Mortgage - Summary",
+    "content": "**Six Types of Mortgage - Sections 58-69 Transfer of Property Act 1882**\n\n**1. Simple Mortgage (Section 58(b)):**\n- No delivery of possession\n- Mortgagor binds himself personally to pay\n- Mortgagee has right to sell property on default\n\n**2. Mortgage by Conditional Sale (Section 58(c)):**\n- Ostensible sale with condition: default = sale becomes absolute, payment = sale becomes void\n- Must be embodied in mortgage deed itself\n\n**3. Usufructuary Mortgage (Section 58(d)):**\n- Delivery of possession to mortgagee\n- Mortgagee receives rents/profits in lieu of interest/principal\n- No personal liability\n\n**4. English Mortgage (Section 58(e)):**\n- Absolute transfer to mortgagee\n- Proviso for re-transfer on payment\n- Personal liability of mortgagor\n\n**5. Equitable Mortgage (Section 58(f)):**\n- Deposit of title deeds\n- Only in notified towns\n- No registration required\n\n**6. Anomalous Mortgage (Section 58(g)):**\n- Not fitting any above category\n- Terms determined by contract\n\n**Right of Redemption (Section 60):** Absolute right. 'Once a mortgage, always a mortgage.' Any clog on redemption is void.\n\n**Exam Tip:** Tabulate all 6 types with distinguishing features. Cite Gangadhar v. Shankar Lal (1965) for right of redemption.",
+    "subject": "Transfer of Property",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 3,
+    "tags": "mortgage,types,section-58,redemption",
+    "is_bookmarked": 0
+  },
+  {
+    "id": "note-010",
+    "topic_id": "topic-043",
+    "title": "Condonation of Delay - Section 5",
+    "content": "**Condonation of Delay - Section 5, Limitation Act 1963**\n\n**Text:** Court may admit appeal/application after limitation period if appellant/applicant satisfies court that he had 'sufficient cause' for not preferring it within time.\n\n**Key Points:**\n1. Applies to appeals and applications ONLY, not to suits\n2. 'Sufficient cause' - liberal construction\n3. Bona fide explanation required\n4. Not applicable to deliberate delay, negligence, or inaction\n\n**Liberal Approach (Collector, Land Acquisition v. Mst. Katiji, 1987):**\n- Substantial justice over technicalities\n- State should not be placed on higher pedestal than private party\n- Every day's delay should be explained\n\n**Not Sufficient Cause:**\n- Negligence or inaction\n- Deliberate delay\n- Wrong legal advice alone\n- Busy schedule of counsel\n\n**Sufficient Cause:**\n- Illness of party/counsel\n- Mistake of court staff\n- Imprisonment\n- Natural calamity\n- Bona file mistake\n\n**Section 14 - Exclusion of Time:**\nTime spent in prosecuting another civil proceeding with due diligence in court without jurisdiction is excluded if: (1) both courts competent, (2) bona fide, (3) same matter, (4) jurisdiction defect.\n\n**Exam Tip:** Section 5 is NOT applicable to suits. This is a common trap in MCQs. Cite Katiji case for liberal approach.",
+    "subject": "Limitation & Court Fees",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,UP",
+    "semester": 5,
+    "tags": "condonation-delay,section-5,sufficient-cause,limitation",
+    "is_bookmarked": 0
+  }
+]

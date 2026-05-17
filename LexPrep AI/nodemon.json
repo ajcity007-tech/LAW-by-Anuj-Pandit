@@ -1,0 +1,10 @@
+{
+  "ignore": [
+    "db/*.db",
+    "db/*.db-journal",
+    "lexprep.db*",
+    "node_modules/*",
+    "public/*"
+  ],
+  "ext": "js,json"
+}

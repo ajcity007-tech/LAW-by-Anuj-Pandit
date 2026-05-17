@@ -1,0 +1,182 @@
+[
+  {
+    "id": "fc-001",
+    "front": "Basic Structure Doctrine - Case & Year",
+    "back": "Kesavananda Bharati v. State of Kerala (1973) AIR 1973 SC 1461. 13-judge bench, 7-6 majority. Parliament cannot destroy basic structure under Article 368.",
+    "subject": "Constitutional Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,UPSC",
+    "semester": 3,
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-002",
+    "front": "Article 14 - Test of Reasonable Classification",
+    "back": "Twin test from State of West Bengal v. Anwar Ali Sarkar (1952): (1) Intelligible differentia - classification must be based on distinguishing feature, (2) Rational nexus - differentia must have rational connection with object sought to be achieved.",
+    "subject": "Constitutional Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,UPSC",
+    "semester": 3,
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-003",
+    "front": "Article 21 - Maneka Gandhi Test",
+    "back": "Maneka Gandhi v. Union of India (1978): Procedure under Article 21 must be 'fair, just, and reasonable' - not merely prescribed by law. Golden Triangle: Articles 14 + 19 + 21 interconnected.",
+    "subject": "Constitutional Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,UPSC",
+    "semester": 3,
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-004",
+    "front": "Res Judicata - Section 11 CPC",
+    "back": "No court shall try any suit/issue directly and substantially in issue in a former suit between same parties, under same title, in competent court, heard and finally decided. Constructive res judicata: matter which ought to have been raised is deemed in issue.",
+    "subject": "Civil Procedure",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge",
+    "semester": 4,
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-005",
+    "front": "Dying Declaration - Section 32(1)",
+    "back": "Statement by person as to cause/circumstances of death. Admissible without oath. No particular form. Corroboration desirable but not mandatory. Deceased must be in fit mental state. Nemo moriturus praesumitur mentiri.",
+    "subject": "Evidence Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 4,
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-006",
+    "front": "Section 27 - Discovery of Fact",
+    "back": "Information leading to discovery of fact is admissible even if given by accused in police custody. Exception to Sections 25-26. Only so much of information as relates distinctly to the fact discovered is admissible.",
+    "subject": "Evidence Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 4,
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-007",
+    "front": "Common Intention vs Common Object",
+    "back": "Section 34: 2+ persons, prior meeting of minds, active participation required. Section 149: 5+ persons (unlawful assembly), no prior concert needed, mere membership sufficient. Both are not substantive offences.",
+    "subject": "Criminal Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 4,
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-008",
+    "front": "Culpable Homicide vs Murder",
+    "back": "All murder is culpable homicide but not vice versa. Difference is degree of mens rea. Murder requires higher intention/knowledge. 5 exceptions reduce murder to culpable homicide: provocation, private defence, public servant, sudden fight, consent.",
+    "subject": "Criminal Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 4,
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-009",
+    "front": "Consideration - Section 2(d) ICA 1872",
+    "back": "When at desire of promisor, promisee or any other person has done/abstained, does/abstains, or promises to do/abstain. Need not be adequate but must be real. May move from any person (Chinnaya v. Ramaya). May be past, present, or future.",
+    "subject": "Contract Law",
+    "exam_tags": "UP PCS-J,Judicial Services,LLB,Bar Exam",
+    "semester": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-010",
+    "front": "Section 25 - Exceptions to 'No Consideration'",
+    "back": "1. Natural love/affection (written, registered, near relatives), 2. Past voluntary service compensation, 3. Time-barred debt promise, 4. Completed gift, 5. Agency (Section 185), 6. Gratuitous bailment (Section 148).",
+    "subject": "Contract Law",
+    "exam_tags": "UP PCS-J,Judicial Services,LLB,Bar Exam",
+    "semester": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-011",
+    "front": "Austin vs Savigny - Key Difference",
+    "back": "Austin: Law = sovereign command + sanction. Deductive method. Savigny: Law = Volksgeist (spirit of people), found not made. Inductive method. Custom is primary source for Savigny, ignored by Austin.",
+    "subject": "Jurisprudence",
+    "exam_tags": "UP PCS-J,Judicial Services,LLM,UPSC",
+    "semester": 5,
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-012",
+    "front": "Hohfeld's Jural Relations",
+    "back": "Four pairs: (1) Right-Duty, (2) Privilege-No Right, (3) Power-Liability, (4) Immunity-Disability. Each concept has a correlative and an opposite. Analytical framework for understanding legal rights.",
+    "subject": "Jurisprudence",
+    "exam_tags": "UP PCS-J,Judicial Services,LLM,UPSC",
+    "semester": 5,
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-013",
+    "front": "Donoghue v. Stevenson (1932) - Neighbor Principle",
+    "back": "Foundation of modern negligence law. Lord Atkin: 'Take reasonable care to avoid acts/omissions reasonably foreseeable to injure your neighbor.' Neighbor = persons closely and directly affected by my act.",
+    "subject": "Law of Torts",
+    "exam_tags": "UP PCS-J,Judicial Services,LLB,Bar Exam",
+    "semester": 2,
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-014",
+    "front": "Strict vs Absolute Liability",
+    "back": "Strict (Rylands v. Fletcher): Dangerous thing escapes, 6 exceptions apply. Absolute (M.C. Mehta v. UOI 1987): Hazardous industry, NO exceptions, enterprise pays compensation. Absolute liability is Indian innovation.",
+    "subject": "Law of Torts",
+    "exam_tags": "UP PCS-J,Judicial Services,LLB,Bar Exam",
+    "semester": 2,
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-015",
+    "front": "Six Types of Mortgage - Section 58 TPA",
+    "back": "1. Simple (no possession, personal liability), 2. Conditional sale, 3. Usufructuary (possession + rents), 4. English (absolute transfer + re-transfer), 5. Equitable (deposit of title deeds), 6. Anomalous (other). Right of redemption is absolute.",
+    "subject": "Transfer of Property",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 3,
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-016",
+    "front": "Section 53A - Part Performance",
+    "back": "Protects transferee in possession under unregistered contract who has performed his part. Requirements: written contract, transfer of immovable property, possession taken, transferee willing to perform. SHIELD not SWORD.",
+    "subject": "Transfer of Property",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,Bar Exam",
+    "semester": 3,
+    "difficulty": "hard"
+  },
+  {
+    "id": "fc-017",
+    "front": "Section 5 Limitation Act - Condonation of Delay",
+    "back": "Applies to appeals and applications ONLY, NOT suits. Court may admit if 'sufficient cause' shown. Liberal construction (Katiji case 1987). Not for deliberate delay or negligence. Every day's delay should be explained.",
+    "subject": "Limitation & Court Fees",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,UP",
+    "semester": 5,
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-018",
+    "front": "Section 14 Limitation Act - Exclusion of Time",
+    "back": "Time spent prosecuting another civil proceeding in wrong court excluded if: (1) both courts competent, (2) bona fide, (3) same matter, (4) jurisdiction defect. Due diligence required.",
+    "subject": "Limitation & Court Fees",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,UP",
+    "semester": 5,
+    "difficulty": "medium"
+  },
+  {
+    "id": "fc-019",
+    "front": "Bhumidhar Rights - U.P. Revenue Code 2006",
+    "back": "Person who paid land revenue for 6 years or recorded as bhumidhar. Rights: heritable, transferable, mortgageable, leasable. Highest class of tenure holder under U.P. Revenue Code.",
+    "subject": "U.P. Local Laws",
+    "exam_tags": "UP PCS-J,Judicial Services,UP,Civil Judge",
+    "semester": 6,
+    "difficulty": "easy"
+  },
+  {
+    "id": "fc-020",
+    "front": "Writs under Articles 32 & 226",
+    "back": "Five writs: (1) Habeas Corpus - produce the body, (2) Mandamus - we command, (3) Prohibition - forbid lower court, (4) Certiorari - quash order, (5) Quo Warranto - by what authority. Art 32 is itself a FR. Art 226 is wider.",
+    "subject": "Constitutional Law",
+    "exam_tags": "UP PCS-J,Judicial Services,Civil Judge,UPSC",
+    "semester": 3,
+    "difficulty": "hard"
+  }
+]

@@ -1,0 +1,37 @@
+{
+  "name": "lexprep-ai",
+  "version": "1.0.0",
+  "description": "LexPrep AI - AI-Powered Law Study Platform for Indian Legal Aspirants",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "clean-port": "powershell -ExecutionPolicy Bypass -File scripts/kill-port.ps1",
+    "dev": "npm run clean-port && nodemon server.js",
+    "seed": "node scripts/seed.js",
+    "test": "jest"
+  },
+  "keywords": ["law", "legal-education", "ai-tutor", "indian-law", "llb", "judicial-exam"],
+  "author": "LexPrep AI",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "sql.js": "^1.10.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "express-rate-limit": "^7.1.5",
+    "express-validator": "^7.0.1",
+    "jsonwebtoken": "^9.0.2",
+    "marked": "^11.1.1",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.24.1",
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2",
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
